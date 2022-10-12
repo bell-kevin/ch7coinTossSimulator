@@ -8,11 +8,11 @@ In the main function, create an instance of the Coin class and display which sid
 
 Here is an example of the results:
 
-Ch 7 Coin Toss 
+![Ch 7 Coin Toss ](https://github.com/bell-kevin/ch7coinTossSimulator/blob/main/ch7coinTossSimulator/coinToss1.PNG)
 
 Run the program twice and take screenshots of both executions.
 
- 
+ ![2](https://github.com/bell-kevin/ch7coinTossSimulator/blob/main/ch7coinTossSimulator/coinToss2.PNG)
 
 NOTE: Remember the requirements for a header and a pause at the end of the program, discussed in the reading "Console Applications". These are required in every console application project.
 
